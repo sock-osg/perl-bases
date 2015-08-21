@@ -7,7 +7,7 @@ Uso basico de Moose y pruebas unitarias en perl con servicios Mock.
 
  * https://en.wikibooks.org/wiki/Programming_with_Moose/Syntax/has#initializer
 
- ## Requerimientos
+## Requerimientos
 
- * cpan install Moose
- * cpan install Test::MockObject::Extends
+* cpan install Moose
+* cpan install Test::MockObject::Extends
